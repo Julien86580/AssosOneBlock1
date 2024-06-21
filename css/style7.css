@@ -1,0 +1,5 @@
+
+        .block--background::after {
+            background-image: linear-gradient(0deg,var(--color-bg) 30%,transparent 50%);
+        }
+    

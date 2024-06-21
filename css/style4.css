@@ -1,0 +1,7 @@
+
+        .header .navbar-brand img {
+            width: clamp(5rem,8.125rem,8.125rem);
+            top: 0;
+            transition: transform 0.26s;
+        }
+    
